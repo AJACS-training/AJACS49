@@ -9,7 +9,7 @@
 <li><a href="#t0ceebf6"> 研究現場で頻繁に使われるデータベースやツールを知る </a>
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li><a href="#wbaa8650"> 統合TV </a></li></ul></li>
 <li><a href="#pa398a27"> 個々の遺伝子の発現プロファイルを調べる </a>
-<ul class="list2" style="padding-left:16px;margin-left:16px"><li><a href="#j040760b"> RefEx?(Reference Expression dataset) </a>
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li><a href="#j040760b"> RefEx(Reference Expression dataset) </a>
 <ul class="list3" style="padding-left:16px;margin-left:16px"><li><a href="#d71c8bae"> 【実習1】RefExを使って、組織特異的遺伝子を検索する </a></li></ul></li>
 <li><a href="#bb55f671"> BioGPS </a>
 <ul class="list3" style="padding-left:16px;margin-left:16px"><li><a href="#b7dd172e"> 【実習2】BioGPSを使ってある遺伝子の発現プロファイルを調べる </a></li></ul></li></ul></li>
@@ -55,7 +55,7 @@
 
 <h3 id="content_1_4"><a id="pa398a27" href="" title="pa398a27"><span class="sanchor">_</span></a> 個々の遺伝子の発現プロファイルを調べる  </h3>
 
-<h3 id="content_1_5"><a id="j040760b" href="" title="j040760b">_</a> <a href="http://refex.dbcls.jp/" rel="nofollow"><span style="font-size:20px;display:inline-block;line-height:130%;text-indent:0px"><span class="noexists">RefEx?</span>(Reference Expression dataset)</span></a>  </h3>
+<h3 id="content_1_5"><a id="j040760b" href="" title="j040760b">_</a> <a href="http://refex.dbcls.jp/" rel="nofollow"><span style="font-size:20px;display:inline-block;line-height:130%;text-indent:0px">RefEx(Reference Expression dataset)</span></a>  </h3>
 <p><span style="color:green">ヒト、マウス、ラットの遺伝子発現情報リファレンスデータセット</span></p>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://refex.dbcls.jp/" rel="nofollow">http://refex.dbcls.jp/</a></li>
 <li>4つの異なる実験手法（EST、GeneChip、CAGE、RNA-seq）によって得られた40種類の正常組織における遺伝子発現データを検索、閲覧できます。</li>
@@ -132,14 +132,14 @@
 <p><span style="color:green">マイクロアレイデータの生物学的な解釈</span></p>
 <blockquote><p class="quotation"><a href="http://david.abcc.ncifcrf.gov/" rel="nofollow">http://david.abcc.ncifcrf.gov/</a></p></blockquote>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>マイクロアレイ実験の一般的な目的は、実験条件によって得られた数十～数千の遺伝子群の発現が生物学的にどういう意味を持つかを考えることです。
-<div class="img_margin" style="text-align:left"><a href="http://MotDB.DBCLS.jp/?plugin=attach&amp;refer=AJACS14%2Fthecla&amp;openfile=microarray.analysis.005.png" title="microarray.analysis.005.png"><img src="http://MotDB.DBCLS.jp/?plugin=ref&amp;page=AJACS14%2Fthecla&amp;src=microarray.analysis.005.png" alt="microarray.analysis.005.png" title="microarray.analysis.005.png" width="410" height="242" /></a></div>
+<div class="img_margin" style="text-align:left"><img src="microarray.analysis.005.png" alt="microarray.analysis.005.png" title="microarray.analysis.005.png" width="410" height="242" /></a></div>
 </li>
 <li>今回は、その方法の一つとして、マイクロアレイの結果に<a href="http://www.google.co.jp/url?sa=t&amp;source=web&amp;cd=4&amp;ved=0CEEQFjAD&amp;url=http%3A%2F%2Fja.wikipedia.org%2Fwiki%2F%25E9%2581%25BA%25E4%25BC%259D%25E5%25AD%2590%25E3%2582%25AA%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25AD%25E3%2582%25B8%25E3%2583%25BC&amp;ei=ve9QTd6XMtG6cbeW1KUH&amp;usg=AFQjCNF8U-O4ktlMGoR9DNC0wKltmbjtmw" rel="nofollow">Gene Ontology</a>の用語を付与することで、生物学的な解釈を行います。</li></ul>
 
 <h4 id="content_1_11"><a id="wd2c65be" href="" title="wd2c65be">_</a> マイクロアレイデータの準備  </h4>
 <p>サンプルデータとして、<a href="http://www.ncbi.nlm.nih.gov/geo/" rel="nofollow">NCBI GEO</a>より取得した公共の遺伝子発現データを用います。このデータは、ある実験の前後の2群間で有意に発現減少した遺伝子群のリストです。
 <br class="spacer" />
-→ <a href="http://motdb.dbcls.jp/?plugin=attach&amp;refer=AJACS24%2Fhono&amp;openfile=110208_IDlist.txt" rel="nofollow">マル秘遺伝子リスト</a>
+→ <a href="110208_IDlist.txt" rel="nofollow">マル秘遺伝子リスト</a>
 <br class="spacer" />
 （右クリックして「新しいタブで開く」もしくは「名前を付けてリンク先を保存」してください。）
 <br class="spacer" />
@@ -160,7 +160,7 @@
 <a name="plugin_fold_anchor1"></a>
 <div class="plugin_fold_title_plus" onclick="return plugin_fold_onclick(this,event,'plugin_fold_anchor1')"><p>結果</p>
 </div>
-<div class="plugin_fold_body"><div class="img_margin" style="text-align:left"><a href="http://MotDB.DBCLS.jp/?plugin=attach&amp;refer=AJACS24%2Fhono&amp;openfile=david_go_bp.png" title="david_go_bp.png"><img src="http://MotDB.DBCLS.jp/?plugin=ref&amp;page=AJACS24%2Fhono&amp;src=david_go_bp.png" alt="david_go_bp.png" title="david_go_bp.png" width="989" height="833" /></a></div>
+<div class="plugin_fold_body"><div class="img_margin" style="text-align:left"><img src="david_go_bp.png" alt="david_go_bp.png" title="david_go_bp.png" width="989" height="833" /></a></div>
 
 </div></li>
 <li>[応用編] Pathways &gt; KEGG_PATHWAY や Tissue Expression &gt; UP_TISSUE なども見てみましょう。生物学的にどういうことが言えるでしょうか。
@@ -189,7 +189,7 @@
 <p><br class="spacer" /></p>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>その後、Entrez Gene ID行のみに整形したテキストファイルをPANTHERにSubmitします。
 <br class="spacer" />
-→ <a href="http://motdb.dbcls.jp/?plugin=attach&amp;pcmd=open&amp;file=affy_to_geneid.txt&amp;refer=AJACS35%2Fhono" rel="nofollow">変換済みマル秘遺伝子リスト</a>
+→ <a href="affy_to_geneid.txt" rel="nofollow">変換済みマル秘遺伝子リスト</a>
 <br class="spacer" /></li></ul>
 
 <h4 id="content_1_14"><a id="t120060f" href="" title="t120060f">_</a> 【実習3-2】PANTHERを用いて、発現データの結果を生物学的に解釈する  </h4>
@@ -205,7 +205,7 @@
 <li>9. Launch Analysisをクリックして分析結果を表示します。</li>
 <li>7. まず、P-valueの昇順でリストが表示されます。どのようなGO termが上位に来ているでしょうか。またそれらをDAVIDと比較してみましょう。</li>
 <li>8. [応用編] Viewを切り替えて、さまざまなグラフ形式で解析結果を見てみましょう。生物学的にどういうことが言えるでしょうか。</li>
-<li>9. その他のデータではどのような結果が表示されるでしょうか。<a href="http://motdb.dbcls.jp/?plugin=attach&amp;pcmd=open&amp;file=gse1657_adipo_up500_geneid.txt&amp;refer=AJACS38%2Fhono2" rel="nofollow">参考動画で使われているヒトの脂肪細胞の分化過程(GSE1657)で発現増加した上位500個の遺伝子群のEntrez Gene IDリスト</a></li></ul>
+<li>9. その他のデータではどのような結果が表示されるでしょうか。<a href="gse1657_adipo_up500_geneid.txt" rel="nofollow">参考動画で使われているヒトの脂肪細胞の分化過程(GSE1657)で発現増加した上位500個の遺伝子群のEntrez Gene IDリスト</a></li></ul>
 <hr class="full_hr" />
 
 <h3 id="content_1_15"><a id="n6fd3a54" href="" title="n6fd3a54"><span class="sanchor">_</span></a> NCBI GEOを用いたマイクロアレイデータ解析 (データの検索・生データの取得・統計解析・可視化)  </h3>
