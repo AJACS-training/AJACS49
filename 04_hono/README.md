@@ -29,7 +29,7 @@
 <li><a href="#b6353d6e"> 【参考】遺伝子発現バンク(GEO)目次、通称「GEO目次」 </a></li></ul></li></ul>
 </div>
 
-<h3 id="content_1_0"><a id="pd0250e4" href="http://MotDB.DBCLS.jp/?AJACS49%2Fhono#pd0250e4" title="pd0250e4"><span class="sanchor">_</span></a> 講習に際しての注意とお願い  </h3>
+<h3 id="content_1_0"><a id="pd0250e4" href="" title="pd0250e4"><span class="sanchor">_</span></a> 講習に際しての注意とお願い  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>みんなで同時にアクセスするとサイトにつながりにくくなることが予想されます。
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li>資料を見ながら自力で進められそうな方はどんどん先に、そうでない方は講師と一緒にすすめていきましょう。</li>
 <li>サイトの反応が悪い時はタイミングをずらして実行してみてください。</li>
@@ -37,28 +37,28 @@
 <li>わからないことがあったら挙手にてスタッフにお知らせください。
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li>遠慮は無用です(そのための講習会です!)。おいてけぼりは楽しくありません。</li></ul></li></ul>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_1"><a id="e7c9ca95" href="http://MotDB.DBCLS.jp/?AJACS49%2Fhono#e7c9ca95" title="e7c9ca95"><span class="sanchor">_</span></a> いざ講習、その前に  </h3>
+<h3 id="content_1_1"><a id="e7c9ca95" href="" title="e7c9ca95"><span class="sanchor">_</span></a> いざ講習、その前に  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>講習内容をスムーズに理解するために押さえておくとよい基礎知識として、<a href="http://motdb.dbcls.jp/?AJACS33%2Fmeso#e3b0f070" rel="nofollow">「遺伝子のDB・ウェブツールの基礎」(2012年8月AJACS筑波2)</a>の内容をご参照ください。</li>
 <li>次世代シーケンス解析については、<a href="http://motdb.dbcls.jp/?AJACS48%2Fnakazato" rel="nofollow">「次世代シーケンサー（NGS）と関連するデータベース・ツール」(2014年7月AJACS信州)</a>をご参照ください。</li></ul>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_2"><a id="t0ceebf6" href="http://MotDB.DBCLS.jp/?AJACS49%2Fhono#t0ceebf6" title="t0ceebf6"><span class="sanchor">_</span></a> 研究現場で頻繁に使われるデータベースやツールを知る  </h3>
+<h3 id="content_1_2"><a id="t0ceebf6" href="" title="t0ceebf6"><span class="sanchor">_</span></a> 研究現場で頻繁に使われるデータベースやツールを知る  </h3>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_3"><a id="wbaa8650" href="http://MotDB.DBCLS.jp/?AJACS49%2Fhono#wbaa8650" title="wbaa8650">_</a> <a href="http://togotv.dbcls.jp/ja/" rel="nofollow"><span style="font-size:20px;display:inline-block;line-height:130%;text-indent:0px">統合TV</span></a>  </h3>
+<h3 id="content_1_3"><a id="wbaa8650" href="" title="wbaa8650">_</a> <a href="http://togotv.dbcls.jp/ja/" rel="nofollow"><span style="font-size:20px;display:inline-block;line-height:130%;text-indent:0px">統合TV</span></a>  </h3>
 <p><span style="color:green">生命科学分野の有用なデータベースやツールの使い方を動画で紹介するウェブサイト</span></p>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://togotv.dbcls.jp/ja/" rel="nofollow">http://togotv.dbcls.jp/ja/</a></li>
-<li><span class="noexists">YouTube<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=YouTube&amp;refer=AJACS49%2Fhono">?</a></span>版もあります　<a href="http://www.youtube.com/user/togotv/videos" rel="nofollow">http://www.youtube.com/user/togotv/videos</a></li>
+<li>YouTube版もあります　<a href="http://www.youtube.com/user/togotv/videos" rel="nofollow">http://www.youtube.com/user/togotv/videos</a></li>
 <li>ウェブサイトへのアクセスから結果の見方まで、操作の一挙手一投足がわかります。</li>
 <li>講義・講習などの参考資料や後輩指導の教材として利用できます。
-<ul class="list2" style="padding-left:16px;margin-left:16px"><li>本講習中、本家サイトが繋がらない時は、統合TVの<span class="noexists">YouTube<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=YouTube&amp;refer=AJACS49%2Fhono">?</a></span>版を見ればおおよその内容がわかるようになっています。</li>
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li>本講習中、本家サイトが繋がらない時は、統合TVのYouTube版を見ればおおよその内容がわかるようになっています。</li>
 <li>今回の講習に関連する内容の多くは、<a href="http://togotv.dbcls.jp/ja/contents/category/expression" rel="nofollow">統合TV の発現制御解析 カテゴリー</a>にあります。</li>
 <li>過去の講習会の内容はそのほとんどが<a href="http://togotv.dbcls.jp/ja/contents/category/dbcls#%E7%B5%B1%E5%90%88%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%E8%AC%9B%E7%BF%92%E4%BC%9Aajacs-%E8%AC%9B%E6%BC%94%E3%83%BB%E8%AC%9B%E7%BF%92%E5%8B%95%E7%94%BB" rel="nofollow">統合TVに収録</a>されており、いつでもどこでも繰り返し復習できるようになっています。</li></ul></li></ul>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_4"><a id="pa398a27" href="http://MotDB.DBCLS.jp/?AJACS49%2Fhono#pa398a27" title="pa398a27"><span class="sanchor">_</span></a> 個々の遺伝子の発現プロファイルを調べる  </h3>
+<h3 id="content_1_4"><a id="pa398a27" href="" title="pa398a27"><span class="sanchor">_</span></a> 個々の遺伝子の発現プロファイルを調べる  </h3>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_5"><a id="j040760b" href="http://MotDB.DBCLS.jp/?AJACS49%2Fhono#j040760b" title="j040760b">_</a> <a href="http://refex.dbcls.jp/" rel="nofollow"><span style="font-size:20px;display:inline-block;line-height:130%;text-indent:0px"><span class="noexists">RefEx?</span>(Reference Expression dataset)</span></a>  </h3>
+<h3 id="content_1_5"><a id="j040760b" href="" title="j040760b">_</a> <a href="http://refex.dbcls.jp/" rel="nofollow"><span style="font-size:20px;display:inline-block;line-height:130%;text-indent:0px"><span class="noexists">RefEx?</span>(Reference Expression dataset)</span></a>  </h3>
 <p><span style="color:green">ヒト、マウス、ラットの遺伝子発現情報リファレンスデータセット</span></p>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://refex.dbcls.jp/" rel="nofollow">http://refex.dbcls.jp/</a></li>
-<li>4つの異なる実験手法（EST、<span class="noexists">GeneChip<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=GeneChip&amp;refer=AJACS49%2Fhono">?</a></span>、CAGE、RNA-seq）によって得られた40種類の正常組織における遺伝子発現データを検索、閲覧できます。</li>
+<li>4つの異なる実験手法（EST、GeneChip、CAGE、RNA-seq）によって得られた40種類の正常組織における遺伝子発現データを検索、閲覧できます。</li>
 <li>掲載しているデータやオリジナルデータなどの詳細については、<a href="http://refex.dbcls.jp/about.php?lang=ja" rel="nofollow">RefExについて</a>をご覧ください。</li>
 <li>このツールでできること
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li>正常組織における遺伝子発現データを調べる</li>
@@ -66,7 +66,7 @@
 <li>組織特異的遺伝子をワンタッチで検索可能</li>
 <li>遺伝子発現解析などで見出された不詳な遺伝子群の機能および関係性を調べる</li></ul></li></ul>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h4 id="content_1_6"><a id="d71c8bae" href="http://MotDB.DBCLS.jp/?AJACS49%2Fhono#d71c8bae" title="d71c8bae">_</a> 【実習1】<span class="noexists">RefEx<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=RefEx&amp;refer=AJACS49%2Fhono">?</a></span>を使って、組織特異的遺伝子を検索する  </h4>
+<h4 id="content_1_6"><a id="d71c8bae" href="" title="d71c8bae">_</a> 【実習1】RefExを使って、組織特異的遺伝子を検索する  </h4>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://youtu.be/GC2gLzvF6t0" rel="nofollow">【復習用】RefExの使い方</a> <a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a></li>
 <li>1. <a href="http://refex.dbcls.jp/" rel="nofollow">http://refex.dbcls.jp/</a> を開きます。</li>
 <li>2. 画面中央の「組織特異的に発現する遺伝子を見る」の臓器アイコンにカーソルを合わせると、更に詳細な部位のアイコンが出るので、調べたい臓器（例として肝臓）をクリックします。</li>
@@ -92,15 +92,15 @@
 <li>並列に比較することで見えてくる「違い」はなんでしょうか。</li></ul></li>
 <li>13. 自分の研究テーマに関連する、また興味のある遺伝子について検索してみましょう。</li></ul>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_7"><a id="bb55f671" href="http://MotDB.DBCLS.jp/?AJACS49%2Fhono#bb55f671" title="bb55f671">_</a> <a href="http://biogps.org/" rel="nofollow"><span style="font-size:20px;display:inline-block;line-height:130%;text-indent:0px">BioGPS</span></a>  </h3>
+<h3 id="content_1_7"><a id="bb55f671" href="" title="bb55f671">_</a> <a href="http://biogps.org/" rel="nofollow"><span style="font-size:20px;display:inline-block;line-height:130%;text-indent:0px">BioGPS</span></a>  </h3>
 <p><span style="color:green">ヒト、マウス、ラットのさまざまな組織や細胞(株)における遺伝子発現プロファイルのデータベース</span></p>
-<ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://biogps.org/" rel="nofollow">BioGPS</a>はAffymetrix社製のマイクロアレイである<span class="noexists">GeneChip<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=GeneChip&amp;refer=AJACS49%2Fhono">?</a></span>を用いたさまざまな組織や細胞(株)遺伝子発現プロファイルのデータベース。
+<ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://biogps.org/" rel="nofollow">BioGPS</a>はAffymetrix社製のマイクロアレイであるGeneChipを用いたさまざまな組織や細胞(株)遺伝子発現プロファイルのデータベース。
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li>検索した遺伝子に対して、種々の外部データベースを横断検索することができるだけでなく、それらの設定を保存したり、表示方法を自由にカスタマイズすることができる「Gene annotation portal」。</li>
 <li>外部データベースには、Wikipedia(Gene Wiki)、著名な試薬会社の検索窓へのリンク集、pathway、Nature系DB、モデル生物DB、文献DBなど多種多様</li>
 <li>マウスのエキソンアレイのデータから遺伝子のスプライシングバリアント(Splicing variant)の発現状況も調べることが可能。最近ではCircadian関係のデータも。</li></ul></li>
 <li>さらに最近のアップデートで、NCBI Gene Expression Omnibus (GEO)中から選抜されたデータセットに切り替えて発現状況を調べることが可能に。</li></ul>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h4 id="content_1_8"><a id="b7dd172e" href="http://MotDB.DBCLS.jp/?AJACS49%2Fhono#b7dd172e" title="b7dd172e">_</a> 【実習2】BioGPSを使ってある遺伝子の発現プロファイルを調べる  </h4>
+<h4 id="content_1_8"><a id="b7dd172e" href="" title="b7dd172e">_</a> 【実習2】BioGPSを使ってある遺伝子の発現プロファイルを調べる  </h4>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://www.youtube.com/watch?v=X_exdocRIVQ" rel="nofollow">【復習用】遺伝子発現プロファイルデータベースBioGPSを使い倒す2012</a> <a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a></li>
 <li><a href="http://togotv.dbcls.jp/20100829.html#p01" rel="nofollow">【以前の講習会動画】遺伝子発現データベースの活用法</a> <a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a></li>
 <li>1. <a href="http://biogps.org/" rel="nofollow">http://biogps.org/</a>を開きます。</li>
@@ -126,9 +126,9 @@
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>【余談】
 <a href="http://biogps.org/iphone/" rel="nofollow">BioGPSのiPhoneアプリ</a>が無料で公開されていますので、「あの遺伝子はどの組織で発現してるのかな？」とふと調べたいときにお手持ちのiPhoneで遺伝子発現を調べられます。</li></ul>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_9"><a id="cb46fe2b" href="http://MotDB.DBCLS.jp/?AJACS49%2Fhono#cb46fe2b" title="cb46fe2b"><span class="sanchor">_</span></a> 数十～数千の遺伝子群の生物学的解釈  </h3>
+<h3 id="content_1_9"><a id="cb46fe2b" href="" title="cb46fe2b"><span class="sanchor">_</span></a> 数十～数千の遺伝子群の生物学的解釈  </h3>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_10"><a id="x426b06b" href="http://MotDB.DBCLS.jp/?AJACS49%2Fhono#x426b06b" title="x426b06b">_</a> <a href="http://david.abcc.ncifcrf.gov/" rel="nofollow"><span style="font-size:20px;display:inline-block;line-height:130%;text-indent:0px">DAVID: The Database for Annotation, Visualization and Integrated Discovery</span></a>  </h3>
+<h3 id="content_1_10"><a id="x426b06b" href="" title="x426b06b">_</a> <a href="http://david.abcc.ncifcrf.gov/" rel="nofollow"><span style="font-size:20px;display:inline-block;line-height:130%;text-indent:0px">DAVID: The Database for Annotation, Visualization and Integrated Discovery</span></a>  </h3>
 <p><span style="color:green">マイクロアレイデータの生物学的な解釈</span></p>
 <blockquote><p class="quotation"><a href="http://david.abcc.ncifcrf.gov/" rel="nofollow">http://david.abcc.ncifcrf.gov/</a></p></blockquote>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>マイクロアレイ実験の一般的な目的は、実験条件によって得られた数十～数千の遺伝子群の発現が生物学的にどういう意味を持つかを考えることです。
@@ -136,7 +136,7 @@
 </li>
 <li>今回は、その方法の一つとして、マイクロアレイの結果に<a href="http://www.google.co.jp/url?sa=t&amp;source=web&amp;cd=4&amp;ved=0CEEQFjAD&amp;url=http%3A%2F%2Fja.wikipedia.org%2Fwiki%2F%25E9%2581%25BA%25E4%25BC%259D%25E5%25AD%2590%25E3%2582%25AA%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25AD%25E3%2582%25B8%25E3%2583%25BC&amp;ei=ve9QTd6XMtG6cbeW1KUH&amp;usg=AFQjCNF8U-O4ktlMGoR9DNC0wKltmbjtmw" rel="nofollow">Gene Ontology</a>の用語を付与することで、生物学的な解釈を行います。</li></ul>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h4 id="content_1_11"><a id="wd2c65be" href="http://MotDB.DBCLS.jp/?AJACS49%2Fhono#wd2c65be" title="wd2c65be">_</a> マイクロアレイデータの準備  </h4>
+<h4 id="content_1_11"><a id="wd2c65be" href="" title="wd2c65be">_</a> マイクロアレイデータの準備  </h4>
 <p>サンプルデータとして、<a href="http://www.ncbi.nlm.nih.gov/geo/" rel="nofollow">NCBI GEO</a>より取得した公共の遺伝子発現データを用います。このデータは、ある実験の前後の2群間で有意に発現減少した遺伝子群のリストです。
 <br class="spacer" />
 → <a href="http://motdb.dbcls.jp/?plugin=attach&amp;refer=AJACS24%2Fhono&amp;openfile=110208_IDlist.txt" rel="nofollow">マル秘遺伝子リスト</a>
@@ -145,7 +145,7 @@
 <br class="spacer" />
 このデータは、どのような実験から得られたデータなのか、どのように解釈できるのかをDAVIDを使って考察してみましょう！</p>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h4 id="content_1_12"><a id="t120060f" href="http://MotDB.DBCLS.jp/?AJACS49%2Fhono#t120060f" title="t120060f">_</a> 【実習3】DAVIDを用いて、発現データの結果を生物学的に解釈する  </h4>
+<h4 id="content_1_12"><a id="t120060f" href="" title="t120060f">_</a> 【実習3】DAVIDを用いて、発現データの結果を生物学的に解釈する  </h4>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://youtu.be/WIfe7Z_Mvxg" rel="nofollow">【復習用】DAVIDを使ってマイクロアレイデータを解析する 2012</a> <a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a></li>
 <li><a href="http://youtu.be/4f1t1ma9IRc" rel="nofollow">【復習用】DAVIDの使い方 実践編</a> <a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a></li>
 <li>1. 上部メニューの「Start Analysis」をクリックします。</li>
@@ -171,7 +171,7 @@
 </div></li></ul>
 <p><br class="spacer" /></p>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_13"><a id="e6714e0c" href="http://MotDB.DBCLS.jp/?AJACS49%2Fhono#e6714e0c" title="e6714e0c">_</a> <a href="http://pantherdb.org/" rel="nofollow"><span style="font-size:20px;display:inline-block;line-height:130%;text-indent:0px">PANTHER</span></a>  </h3>
+<h3 id="content_1_13"><a id="e6714e0c" href="" title="e6714e0c">_</a> <a href="http://pantherdb.org/" rel="nofollow"><span style="font-size:20px;display:inline-block;line-height:130%;text-indent:0px">PANTHER</span></a>  </h3>
 <p><span style="color:green">DAVIDに似たマイクロアレイデータの解析ツール</span></p>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>DAVIDでの解析結果が芳しくなかった場合に、セカンドオピニオン(?)として、PANTHERを使ってみるのも手です。</li>
 <li>先ほどと同じデータを使って、解析結果にどのような違いがあるか調べてみましょう。
@@ -192,7 +192,7 @@
 → <a href="http://motdb.dbcls.jp/?plugin=attach&amp;pcmd=open&amp;file=affy_to_geneid.txt&amp;refer=AJACS35%2Fhono" rel="nofollow">変換済みマル秘遺伝子リスト</a>
 <br class="spacer" /></li></ul>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h4 id="content_1_14"><a id="t120060f" href="http://MotDB.DBCLS.jp/?AJACS49%2Fhono#t120060f" title="t120060f">_</a> 【実習3-2】PANTHERを用いて、発現データの結果を生物学的に解釈する  </h4>
+<h4 id="content_1_14"><a id="t120060f" href="" title="t120060f">_</a> 【実習3-2】PANTHERを用いて、発現データの結果を生物学的に解釈する  </h4>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://www.youtube.com/watch?v=J4ALa5RANWs" rel="nofollow">【復習用】PANTHERを使ってマイクロアレイデータを機能解析する</a> <a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a></li>
 <li>1. トップページのGene List Analysisから遺伝子リストのアップロードをします。</li>
 <li>2. 「Enter IDs:」にコピペするか、「Upload IDs:」から遺伝子リストのファイルをアップロードします。</li>
@@ -208,13 +208,13 @@
 <li>9. その他のデータではどのような結果が表示されるでしょうか。<a href="http://motdb.dbcls.jp/?plugin=attach&amp;pcmd=open&amp;file=gse1657_adipo_up500_geneid.txt&amp;refer=AJACS38%2Fhono2" rel="nofollow">参考動画で使われているヒトの脂肪細胞の分化過程(GSE1657)で発現増加した上位500個の遺伝子群のEntrez Gene IDリスト</a></li></ul>
 <hr class="full_hr" />
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_15"><a id="n6fd3a54" href="http://MotDB.DBCLS.jp/?AJACS49%2Fhono#n6fd3a54" title="n6fd3a54"><span class="sanchor">_</span></a> NCBI GEOを用いたマイクロアレイデータ解析 (データの検索・生データの取得・統計解析・可視化)  </h3>
+<h3 id="content_1_15"><a id="n6fd3a54" href="" title="n6fd3a54"><span class="sanchor">_</span></a> NCBI GEOを用いたマイクロアレイデータ解析 (データの検索・生データの取得・統計解析・可視化)  </h3>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_16"><a id="z337008a" href="http://MotDB.DBCLS.jp/?AJACS49%2Fhono#z337008a" title="z337008a">_</a> <a href="http://www.ncbi.nlm.nih.gov/geo/" rel="nofollow"><span style="font-size:20px;display:inline-block;line-height:130%;text-indent:0px">NCBI Gene Expression Omnibus (GEO)</span></a>  </h3>
+<h3 id="content_1_16"><a id="z337008a" href="" title="z337008a">_</a> <a href="http://www.ncbi.nlm.nih.gov/geo/" rel="nofollow"><span style="font-size:20px;display:inline-block;line-height:130%;text-indent:0px">NCBI Gene Expression Omnibus (GEO)</span></a>  </h3>
 <p><span style="color:green">世界最大の遺伝子発現（<a href="http://ja.wikipedia.org/wiki/DNA%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%A2%E3%83%AC%E3%82%A4" rel="nofollow">マイクロアレイ</a>）データベース（レポジトリ）</span></p>
 <blockquote><p class="quotation"><a href="http://www.ncbi.nlm.nih.gov/geo/" rel="nofollow">http://www.ncbi.nlm.nih.gov/geo/</a></p></blockquote>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h4 id="content_1_17"><a id="lca52056" href="http://MotDB.DBCLS.jp/?AJACS49%2Fhono#lca52056" title="lca52056">_</a> <a href="http://www.ncbi.nlm.nih.gov/geo/" rel="nofollow">GEO</a>のエントリについて  </h4>
+<h4 id="content_1_17"><a id="lca52056" href="" title="lca52056">_</a> <a href="http://www.ncbi.nlm.nih.gov/geo/" rel="nofollow">GEO</a>のエントリについて  </h4>
 <pre>    GEO ID 番号の最初の3文字が
     GPL:  プラットフォーム（マイクロアレイ等の型番）
     GSM: サンプル（1枚のマイクロアレイから出たデータ）
@@ -222,7 +222,7 @@
     GDS:  データセット（NCBIで比較可能なデータを集めて再編成したもの。GEO上で簡単な解析が可能）</pre>
 <p><br class="spacer" /><br class="spacer" /></p>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h4 id="content_1_18"><a id="p112cdc5" href="http://MotDB.DBCLS.jp/?AJACS49%2Fhono#p112cdc5" title="p112cdc5">_</a> 【参考】データセットブラウザ(Dataset browser)を利用して、GEOに登録されているマイクロアレイデータを解析する  </h4>
+<h4 id="content_1_18"><a id="p112cdc5" href="" title="p112cdc5">_</a> 【参考】データセットブラウザ(Dataset browser)を利用して、GEOに登録されているマイクロアレイデータを解析する  </h4>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://www.youtube.com/watch?v=cAKMMSsW1hk" rel="nofollow">【復習用1】NCBI GEOの使い方3～データセットブラウザの使い方1～ 2012</a> <a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a></li>
 <li><a href="http://youtu.be/6caLQ-Sp8dE" rel="nofollow">【復習用2】NCBI GEOの使い方4～データセットブラウザの使い方2～ 2012</a> <a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a></li>
 <li>1. <a href="http://www.ncbi.nlm.nih.gov/geo/" rel="nofollow">http://www.ncbi.nlm.nih.gov/geo/</a>を開きます。</li>
@@ -244,7 +244,7 @@
 <li>17. 範囲選択して、Download をクリックすると、選択範囲内のデータがテキスト形式でダウンロードできます。</li>
 <li>18.  「Experiment design and value distribution」では実験データにおける発現の分布を参照できます。これにより、各サンプルのデータが互いに比較可能か（実験上のミスがないか）チェックすることができます。</li></ul>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h4 id="content_1_19"><a id="r4b74645" href="http://MotDB.DBCLS.jp/?AJACS49%2Fhono#r4b74645" title="r4b74645">_</a> 【参考】GEO2Rを利用して、GEOに登録されているマイクロアレイデータを解析する  </h4>
+<h4 id="content_1_19"><a id="r4b74645" href="" title="r4b74645">_</a> 【参考】GEO2Rを利用して、GEOに登録されているマイクロアレイデータを解析する  </h4>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://youtu.be/qaGlQJ-uJ1g" rel="nofollow">【復習用】NCBI GEOの使い方5～GEO2Rを使う～</a> <a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a></li>
 <li>1. <a href="http://www.ncbi.nlm.nih.gov/geo/" rel="nofollow">http://www.ncbi.nlm.nih.gov/geo/</a>を開きます。</li>
 <li>2. 画面中央下の「<a href="http://www.ncbi.nlm.nih.gov/geo/browse/?view=series" rel="nofollow">Series</a>」をクリックします。</li>
@@ -278,7 +278,7 @@
 <li><a href="http://www.youtube.com/watch?v=jgRboSJGK-k" rel="nofollow">統計解析ソフト「R」の使い方 ～ヒートマップ編～</a></li>
 <li><a href="http://www.youtube.com/watch?v=QivkpL0susI" rel="nofollow">統計解析ソフト「R」での立廻り</a></li></ul>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h4 id="content_1_20"><a id="a83d5bfe" href="http://MotDB.DBCLS.jp/?AJACS49%2Fhono#a83d5bfe" title="a83d5bfe">_</a> 【参考】GEOを使って、自分の興味のある遺伝子の（ある実験条件下における）発現状況を調べる  </h4>
+<h4 id="content_1_20"><a id="a83d5bfe" href="" title="a83d5bfe">_</a> 【参考】GEOを使って、自分の興味のある遺伝子の（ある実験条件下における）発現状況を調べる  </h4>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://www.youtube.com/watch?v=a84nemOOjvA" rel="nofollow">【復習用】NCBI GEOの使い方2～遺伝子プロファイルの検索・処理済みデータの取得～ 2011</a> <a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a></li>
 <li>1. <a href="http://www.ncbi.nlm.nih.gov/geo/" rel="nofollow">http://www.ncbi.nlm.nih.gov/geo/</a>を開きます。</li>
 <li>2.「Gene profiles」に自分の検索したい遺伝子名を入力します。</li>
@@ -290,13 +290,13 @@
 <li>8. <a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM130365" rel="nofollow">リンク先のページ</a>の中ほどにある<a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE5583" rel="nofollow">「series」のリンク</a>をクリックすると、この実験全体の詳細情報が見られます。</li>
 <li>9. <a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE5583" rel="nofollow">この実験全体の詳細情報ページ</a>の下部にある<a href="ftp://ftp.ncbi.nih.gov/pub/geo/DATA/SeriesMatrix/GSE5583/" rel="nofollow">「Series Matrix File(s)」</a>をクリックすると、この実験の正規化補正済みのマイクロアレイデータをダウンロードすることができます。</li></ul>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h4 id="content_1_21"><a id="ze44dc22" href="http://MotDB.DBCLS.jp/?AJACS49%2Fhono#ze44dc22" title="ze44dc22">_</a> 【参考】GEOを使って、自分の興味のあるマイクロアレイ実験データセットを検索&amp;生データをダウンロードする  </h4>
+<h4 id="content_1_21"><a id="ze44dc22" href="" title="ze44dc22">_</a> 【参考】GEOを使って、自分の興味のあるマイクロアレイ実験データセットを検索&amp;生データをダウンロードする  </h4>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://www.youtube.com/watch?v=WS5gDfG2Now" rel="nofollow">【復習用】NCBI GEOの使い方1～マイクロアレイデータの検索・取得～ 2011</a> <a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a></li>
 <li>1. <a href="http://www.ncbi.nlm.nih.gov/geo/" rel="nofollow">http://www.ncbi.nlm.nih.gov/geo/</a>を開きます。</li>
 <li>2. 画面中央の「Platforms」をクリックします。</li>
 <li>3. <a href="http://www.informatics.jax.org/javawi2/servlet/WIFetch?page=imageSummaryByMrk&amp;key=25000&amp;imageType=8" rel="nofollow">Platform(マイクロアレイの種類)の一覧画面が現れる</a>ので、上部の「FIND PLATFORM」をクリックします。</li>
 <li>4. <a href="http://www.ncbi.nlm.nih.gov/geo/query/browse.cgi?mode=findplatform" rel="nofollow">platformの検索画面</a>が現れるので、「Company name」に「Affymetrix」、「organism」に「Homo sapiens」を選択し、「FIND PLATFORM」をクリックします。</li>
-<li>5. <a href="http://www.ncbi.nlm.nih.gov/geo/query/browse.cgi?mode=foundplatform" rel="nofollow">Affymetrixのヒトのマイクロアレイの検索結果</a>が表示されるので、中程にある「Affymetrix <span class="noexists">GeneChip<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=GeneChip&amp;refer=AJACS49%2Fhono">?</a></span> Human Genome U133 Plus 2.0 Array」の左端にある<a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL570" rel="nofollow">「GPL570」というID</a>をクリックします。</li>
+<li>5. <a href="http://www.ncbi.nlm.nih.gov/geo/query/browse.cgi?mode=foundplatform" rel="nofollow">Affymetrixのヒトのマイクロアレイの検索結果</a>が表示されるので、中程にある「Affymetrix GeneChip Human Genome U133 Plus 2.0 Array」の左端にある<a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL570" rel="nofollow">「GPL570」というID</a>をクリックします。</li>
 <li>6. <a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL570" rel="nofollow">表示された画面</a>の真ん中あたりにある「series」下の「More...」をクリックすると、登録されているデータセットを閲覧できます。</li>
 <li>7. ブラウザの検索ボタンなどを使って「reprogramming」という単語を検索するとどういうデータがヒットするでしょうか？</li>
 <li>8. ヒットしたデータの左端にあるIDをクリックすると、<a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE9832" rel="nofollow">そのデータセットの詳細情報</a>が閲覧できます</li>
@@ -304,7 +304,7 @@
 <li>10. ページ最下部の「Supplementary file」にあるリンクから生データをダウンロードすることができます。</li>
 <li>11. 自分の研究テーマに近い、また興味のあるマイクロアレイデータが利用可能か検索してみましょう。</li></ul>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_22"><a id="b6353d6e" href="http://MotDB.DBCLS.jp/?AJACS49%2Fhono#b6353d6e" title="b6353d6e">_</a> 【参考】<a href="http://lifesciencedb.jp/geo/" rel="nofollow">遺伝子発現バンク(GEO)目次、通称「GEO目次」</a>  </h3>
+<h3 id="content_1_22"><a id="b6353d6e" href="" title="b6353d6e">_</a> 【参考】<a href="http://lifesciencedb.jp/geo/" rel="nofollow">遺伝子発現バンク(GEO)目次、通称「GEO目次」</a>  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://www.youtube.com/watch?v=Tw4H91KQQJ0" rel="nofollow">使い方参考動画 遺伝子発現バンク(GEO)目次を使い倒す－その壱</a> <a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a></li>
 <li>NCBI GEO を日本語のインターフェイスで快適に使い、データの全容を俯瞰するための仕組みです。数多く登録されている遺伝子発現データの大まかな傾向をつかむのに役に立つことでしょう。</li>
 <li>検索結果のRSS配信機能があるので、これを活用して、遺伝子発現データの新規登録の有無をチェックできます（便利！）。</li></ul>
